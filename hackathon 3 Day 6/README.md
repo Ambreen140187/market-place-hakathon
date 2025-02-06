@@ -120,7 +120,7 @@
 
 
 
-![App Screenshot](./public/Capture.PNG)
+![App Screenshot](./)
 
 
 
@@ -152,16 +152,16 @@
 ### 3) Comprehensive README.md summarizing the project.
 Links:
 
-GitHub Repository: [https://lnkd.in/gj6UPCNa]
-Staging Environment: [https://lnkd.in/g4hky_Ag]
+GitHub Repository: []
+Staging Environment: []
 
 
 
 
-## 🔗 Links
+<!-- ## 🔗 Links
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lnkd.in/gj6UPCNa)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavita-luhana-0a31842ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BeVgHyinTSVymyAPOD3Aqtg%3D%3D)
 
-[![Staging Link](https://img.shields.io/badge/staging-link-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://lnkd.in/g4hky_Ag)
+[![Staging Link](https://img.shields.io/badge/staging-link-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://lnkd.in/g4hky_Ag) -->
 
